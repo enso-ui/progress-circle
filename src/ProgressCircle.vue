@@ -25,9 +25,9 @@ export default {
 
     props: {
         progress: {
-            type: Number,
+            type: [Number, String],
             required: true,
-            validator: v => v >= 0 && v <= 100,
+            validator: v => 1 * v >= 0 && 1 * v <= 100,
         },
         backgroundStroke: {
             type: String,
