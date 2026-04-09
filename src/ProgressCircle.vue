@@ -93,7 +93,7 @@ export default {
 
         circle.progress {
             fill: none;
-            stroke-width: 1.5;
+            stroke-width: 1;
             stroke-dasharray: 51 51;
             stroke-dashoffset: -51;
             stroke-linecap: round;
