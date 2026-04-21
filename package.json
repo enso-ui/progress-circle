@@ -1,29 +1,29 @@
 {
-  "name": "@enso-ui/progress-circle",
-  "version": "3.1.1",
-  "description": "Progress Circle",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/enso-ui/progress-circle.git"
-  },
-  "keywords": [
-    "progress-circle",
-    "vue"
-  ],
-  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/enso-ui/progress-circle/issues"
-  },
-  "homepage": "https://github.com/enso-ui/progress-circle#readme",
-  "dependencies": {
-    "gsap": "^3.8"
-  },
-  "peerDependencies": {
-    "vue": "^3.5.0"
-  },
-  "devDependencies": {
-    "vue": "^3.5.0"
-  }
+    "name": "@enso-ui/progress-circle",
+    "version": "3.1.1",
+    "description": "Circular progress visual for Enso UI.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/enso-ui/progress-circle.git"
+    },
+    "keywords": [
+        "progress-circle",
+        "vue"
+    ],
+    "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/enso-ui/progress-circle/issues"
+    },
+    "homepage": "https://github.com/enso-ui/progress-circle#readme",
+    "dependencies": {
+        "gsap": "^3.8"
+    },
+    "peerDependencies": {
+        "vue": "^3.5.0"
+    },
+    "devDependencies": {
+        "vue": "^3.5.0"
+    }
 }
